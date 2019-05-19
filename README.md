@@ -1,5 +1,5 @@
 # Congruencial_Mixto_AronCamacho_6toA
-EL progama pide algunas variables que sirven para asginar valores correctos al modulo y periodo
+EL progama pide algunas variables que sirven para asignar valores correctos al modulo y periodo
 
 Se tomo el ejemplo del libro guia para verificar el programa
 
